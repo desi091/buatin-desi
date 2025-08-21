@@ -1,2 +1,2 @@
-# buatin-desi
+# buatan-desi
 database hewan
